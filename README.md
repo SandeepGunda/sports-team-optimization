@@ -31,10 +31,12 @@ We tried to compare our team to last year winner to check how good is our optimi
 2017 Mumbai Indians
 We compared our team with Mumbai Indian Tea, with the same budget
 
-                                Performance Metrics Parameters                 MI                 Our Team
-High/low                        Budget                                          2830                 2830
-High                            SR                                              2249                 2831
-High                            Batting average                                  325                   460
-Low                             BowlerEco                                        781                   707
-Low                             BowAverage                                       150                   107
+|          | Performance Metrics Parameters | MI   | Our Team |
+|----------|--------------------------------|------|----------|
+| High/low | Budget                         | 2830 | 2830     |
+| High     | SR                             | 2249 | 2831     |
+| High     | Batting average                | 325  | 460      |
+| Low      | BowlerEco                      | 781  | 707      |
+| Low      | BowAverage                     | 150  | 107      |
+
 As we can see our new optimized team better regarding numbers. We have high batting score and low bowling score Compared to Mumbai Indian. As we know, Batting parameter should be high, and bowling parameter should be low
