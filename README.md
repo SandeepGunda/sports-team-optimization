@@ -17,9 +17,9 @@ scored, matches played, number of 4s and 6s, etc. Bowlers have parameters like m
 played; overs bowled, maidens (overs bowled without giving and runs) bowled, wickets are taken, economy, bowling average, etc. Wicketkeepers are usually considered based on the number of catches taken.
 
 ### Key performance indicators:
-• Batting Performance: It is the sum of the batting averages of the batsmen in the team.
-• Bowling Performance: It is the sum of the bowling averages of the bowlers in the team.
-• Objective Function: Maximize the difference between batting performance a bowling
+- Batting Performance: It is the sum of the batting averages of the batsmen in the team.
+- Bowling Performance: It is the sum of the bowling averages of the bowlers in the team.
+- Objective Function: Maximize the difference between batting performance a bowling
 performance.
 
 Analysis based on data from 119 IPL players
@@ -27,7 +27,7 @@ Analysis based on data from 119 IPL players
 ### Comparison:
 We tried to compare our team to last year winner to check how good is our optimization:
 
-### Last year winner:
+#### Last year winner:
 2017 Mumbai Indians
 We compared our team with Mumbai Indian Tea, with the same budget
 
